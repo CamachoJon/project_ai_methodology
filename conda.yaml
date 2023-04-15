@@ -1,0 +1,12 @@
+name: project_ai_methodology
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - scikit-learn
+  - mlflow
+  - pip
+  - tensorflow
+  - pip:
+    - dataclasses

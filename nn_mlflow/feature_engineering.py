@@ -17,10 +17,12 @@ def ohe_not_train_encode(X, ohe=None, std=None):
   return X_ohe_scl
 
 def cyclical_encode(df, col, max_val):
+    df = df.copy()
     df[col + '_sin'] = np.sin(2 * np.pi * df[col] / max_val)
     df[col + '_cos'] = np.cos(2 * np.pi * df[col] / max_val)
     df.drop(col, axis=1, inplace=True)
     return df
+
 
 def train_label_encoder(y):
   lbl_enc = LabelEncoder()
@@ -39,11 +41,11 @@ def prepare_data(data_variables):
     y_val = not_train_label_encoder(y_val, lbl_enc=lbl_enc)
     y_test = not_train_label_encoder(y_test, lbl_enc=lbl_enc)
 
-    X_train_to_ohe = X_train[['category','main_category', 'currency' ]]
+    X_train_to_ohe = X_train[['category','main_category', 'currency' ]].astype(str)
 
-    X_val_to_ohe = X_val[['category','main_category', 'currency' ]]
+    X_val_to_ohe = X_val[['category','main_category', 'currency' ]].astype(str)
 
-    X_test_to_ohe = X_test[['category','main_category', 'currency' ]]
+    X_test_to_ohe = X_test[['category','main_category', 'currency' ]].astype(str)
 
     X_train['deadline'] = pd.to_datetime(X_train['deadline'])
     X_train['year_deadline'] = X_train['deadline'].dt.year
@@ -117,25 +119,29 @@ def prepare_data(data_variables):
     X_val_hour_launched_encoded = cyclical_encode(X_val_to_cyclical[['hour_launched']], 'hour_launched', 24)
     X_test_hour_launched_encoded = cyclical_encode(X_test_to_cyclical[['hour_launched']], 'hour_launched', 24)
     
-    X_train = d = np.concatenate((X_train_ohe, X_train_month_deadline_encoded,
+    X_train = np.concatenate((X_train_ohe, X_train_month_deadline_encoded,
                               X_train_month_launched_encoded,
                               X_train_day_deadline_encoded,
                               X_train_day_launched_encoded,
                               X_train_hour_launched_encoded
                               ), axis=1)
     
-    X_val = d = np.concatenate((X_val_ohe, X_val_month_deadline_encoded,
+    X_val = np.concatenate((X_val_ohe, X_val_month_deadline_encoded,
                               X_val_month_launched_encoded,
                               X_val_day_deadline_encoded,
                               X_val_day_launched_encoded,
                               X_val_hour_launched_encoded
                               ), axis=1)
     
-    X_test = d = np.concatenate((X_test_ohe, X_test_month_deadline_encoded,
+    X_test = np.concatenate((X_test_ohe, X_test_month_deadline_encoded,
                               X_test_month_launched_encoded,
                               X_test_day_deadline_encoded,
                               X_test_day_launched_encoded,
                               X_test_hour_launched_encoded
                               ), axis=1)
+    
+    # check if X_train and y_train have the same number of rows, if not, raise an error
+    if X_train.shape[0] != y_train.shape[0]:
+        raise ValueError('X_train and y_train must have the same number of rows')
     
     return X_train, X_val, X_test

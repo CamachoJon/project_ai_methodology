@@ -12,11 +12,13 @@ def main():
     features = feature_engineering.prepare_data(splitted_data)
 
     print('Modeling')
-    model = model_training.train_model(features[0], splitted_data[1], features[1], splitted_data[2] )
-
+    #train model
+    y_train = features[0][:, -1]
+    y_val = features[1][:, -1]
+    model = train_model(features[0], y_train, features[1], y_val)
     print('Predicting')
     #Show results
-    prediction = prediction.prediction(model, features['X_test'], features['y_test'], features['y_pred'])
+    predictions = prediction(model, features['X_test'], features['y_test'])
 
 if __name__ == "__main__":
     main()

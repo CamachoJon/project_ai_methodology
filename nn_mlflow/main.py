@@ -15,7 +15,7 @@ def main():
     #train model
     y_train = features[0][:, -1]
     y_val = features[1][:, -1]
-    model = train_model(features[0], y_train, features[1], y_val)
+    model = model_training.train_model(features[0], y_train, features[1], y_val)
     print('Predicting')
     #Show results
     predictions = prediction(model, features['X_test'], features['y_test'])

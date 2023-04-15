@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 
 def prepare_data():
     # Load the dataset
-    df = pd.read_csv('../Dataset/projects.csv')
+    df = pd.read_csv('project_ai_methodology/Dataset/projects.csv')
     df_original = df.copy()
     # df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 

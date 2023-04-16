@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/975b52e8e4b44f1b8d74561ed1ae0d22/artifacts
+end_time: 1681655064985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 975b52e8e4b44f1b8d74561ed1ae0d22
+run_name: capricious-hare-164
+run_uuid: 975b52e8e4b44f1b8d74561ed1ae0d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681655064939
+status: 3
+tags: []
+user_id: JCama

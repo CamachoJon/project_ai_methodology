@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/3ddd2760318047838eb12432c17c47e7/artifacts
+end_time: 1681647195069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ddd2760318047838eb12432c17c47e7
+run_name: likeable-fowl-352
+run_uuid: 3ddd2760318047838eb12432c17c47e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647194943
+status: 3
+tags: []
+user_id: JCama

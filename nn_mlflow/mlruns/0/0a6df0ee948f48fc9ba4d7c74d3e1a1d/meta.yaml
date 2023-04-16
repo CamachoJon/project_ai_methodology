@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/0a6df0ee948f48fc9ba4d7c74d3e1a1d/artifacts
+end_time: 1681650318565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a6df0ee948f48fc9ba4d7c74d3e1a1d
+run_name: welcoming-sheep-758
+run_uuid: 0a6df0ee948f48fc9ba4d7c74d3e1a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681649464279
+status: 3
+tags: []
+user_id: JCama

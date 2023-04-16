@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/5514c9d000934fed89c15670d0c6092b/artifacts
+end_time: 1681654068323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5514c9d000934fed89c15670d0c6092b
+run_name: thundering-snake-60
+run_uuid: 5514c9d000934fed89c15670d0c6092b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681654068274
+status: 3
+tags: []
+user_id: JCama

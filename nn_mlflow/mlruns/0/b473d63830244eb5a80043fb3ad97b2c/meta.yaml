@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/b473d63830244eb5a80043fb3ad97b2c/artifacts
+end_time: 1681647597567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b473d63830244eb5a80043fb3ad97b2c
+run_name: glamorous-cat-753
+run_uuid: b473d63830244eb5a80043fb3ad97b2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647597493
+status: 3
+tags: []
+user_id: JCama

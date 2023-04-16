@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/31e327b69b4d45d3bd784ea230c2491a/artifacts
+end_time: 1681647649668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31e327b69b4d45d3bd784ea230c2491a
+run_name: flawless-ram-820
+run_uuid: 31e327b69b4d45d3bd784ea230c2491a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647649605
+status: 3
+tags: []
+user_id: JCama

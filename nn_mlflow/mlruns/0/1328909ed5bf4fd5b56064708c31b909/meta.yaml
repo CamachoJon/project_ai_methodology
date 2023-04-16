@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/1328909ed5bf4fd5b56064708c31b909/artifacts
+end_time: 1681647230611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1328909ed5bf4fd5b56064708c31b909
+run_name: skittish-shad-939
+run_uuid: 1328909ed5bf4fd5b56064708c31b909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647230540
+status: 3
+tags: []
+user_id: JCama

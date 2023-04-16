@@ -1,6 +1,3 @@
 *.csv
 Dataset/
-plots/
 __pycache__/
-mlruns/
-tuner_dir/

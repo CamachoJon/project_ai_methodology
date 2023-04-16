@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/f66e37cbe7f64ea4a463959135141178/artifacts
+end_time: 1681659234501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f66e37cbe7f64ea4a463959135141178
+run_name: burly-midge-509
+run_uuid: f66e37cbe7f64ea4a463959135141178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681659234449
+status: 3
+tags: []
+user_id: JCama

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/8e9c9d5100ba48479adbfa61f4887156/artifacts
+end_time: 1681656494679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e9c9d5100ba48479adbfa61f4887156
+run_name: smiling-wolf-997
+run_uuid: 8e9c9d5100ba48479adbfa61f4887156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681656494632
+status: 3
+tags: []
+user_id: JCama

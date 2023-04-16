@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/09ca3f68b8ce41f4a73c44e953440fa7/artifacts
+end_time: 1681657740972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09ca3f68b8ce41f4a73c44e953440fa7
+run_name: painted-vole-305
+run_uuid: 09ca3f68b8ce41f4a73c44e953440fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681657740919
+status: 3
+tags: []
+user_id: JCama

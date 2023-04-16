@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/655cc503560744f99f5a5521cf936afc/artifacts
+end_time: 1681658595195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 655cc503560744f99f5a5521cf936afc
+run_name: likeable-fox-889
+run_uuid: 655cc503560744f99f5a5521cf936afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681657744760
+status: 3
+tags: []
+user_id: JCama

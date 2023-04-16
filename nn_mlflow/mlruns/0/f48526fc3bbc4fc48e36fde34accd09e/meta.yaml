@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/f48526fc3bbc4fc48e36fde34accd09e/artifacts
+end_time: 1681656499393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f48526fc3bbc4fc48e36fde34accd09e
+run_name: wise-calf-744
+run_uuid: f48526fc3bbc4fc48e36fde34accd09e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681656499308
+status: 3
+tags: []
+user_id: JCama

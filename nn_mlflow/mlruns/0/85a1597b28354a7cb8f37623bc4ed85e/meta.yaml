@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/85a1597b28354a7cb8f37623bc4ed85e/artifacts
+end_time: 1681656498056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85a1597b28354a7cb8f37623bc4ed85e
+run_name: merciful-trout-314
+run_uuid: 85a1597b28354a7cb8f37623bc4ed85e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681656498003
+status: 3
+tags: []
+user_id: JCama

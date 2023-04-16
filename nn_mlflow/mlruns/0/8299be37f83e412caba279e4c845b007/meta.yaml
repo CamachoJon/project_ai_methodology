@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/8299be37f83e412caba279e4c845b007/artifacts
+end_time: 1681647604463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8299be37f83e412caba279e4c845b007
+run_name: suave-shrike-992
+run_uuid: 8299be37f83e412caba279e4c845b007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647604392
+status: 3
+tags: []
+user_id: JCama

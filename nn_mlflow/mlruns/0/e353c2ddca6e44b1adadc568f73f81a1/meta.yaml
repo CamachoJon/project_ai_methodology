@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/e353c2ddca6e44b1adadc568f73f81a1/artifacts
+end_time: 1681655068335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e353c2ddca6e44b1adadc568f73f81a1
+run_name: debonair-penguin-0
+run_uuid: e353c2ddca6e44b1adadc568f73f81a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681655068277
+status: 3
+tags: []
+user_id: JCama

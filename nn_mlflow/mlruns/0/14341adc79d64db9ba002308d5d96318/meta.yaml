@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/14341adc79d64db9ba002308d5d96318/artifacts
+end_time: 1681661804399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14341adc79d64db9ba002308d5d96318
+run_name: sedate-perch-974
+run_uuid: 14341adc79d64db9ba002308d5d96318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681660887727
+status: 3
+tags: []
+user_id: JCama

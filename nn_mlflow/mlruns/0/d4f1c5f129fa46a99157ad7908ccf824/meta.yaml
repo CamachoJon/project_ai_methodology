@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/d4f1c5f129fa46a99157ad7908ccf824/artifacts
+end_time: 1681651218389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f1c5f129fa46a99157ad7908ccf824
+run_name: mysterious-goose-299
+run_uuid: d4f1c5f129fa46a99157ad7908ccf824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681651218333
+status: 3
+tags: []
+user_id: JCama

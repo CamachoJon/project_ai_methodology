@@ -3,8 +3,6 @@ import feature_engineering
 import model_training
 import prediction
 import mlflow
- 
-print('starting')
 
 with mlflow.start_run():
     mlflow.log_param("main", "main.py")
@@ -12,9 +10,6 @@ with mlflow.start_run():
 
         print('Starting')
         splitted_data = data_preparation.prepare_data()
-
-        for x in splitted_data:
-            print(x.shape)
         
         print('Featuring')
         features = feature_engineering.prepare_data(splitted_data)

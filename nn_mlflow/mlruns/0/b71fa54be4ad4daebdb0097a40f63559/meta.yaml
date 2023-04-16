@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/b71fa54be4ad4daebdb0097a40f63559/artifacts
+end_time: 1681664732466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b71fa54be4ad4daebdb0097a40f63559
+run_name: whimsical-grouse-524
+run_uuid: b71fa54be4ad4daebdb0097a40f63559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681664732415
+status: 3
+tags: []
+user_id: JCama

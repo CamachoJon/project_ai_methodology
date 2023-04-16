@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/121b529675dc48858a205a42c404c179/artifacts
+end_time: 1681659235698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 121b529675dc48858a205a42c404c179
+run_name: fortunate-moose-291
+run_uuid: 121b529675dc48858a205a42c404c179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681659235646
+status: 3
+tags: []
+user_id: JCama

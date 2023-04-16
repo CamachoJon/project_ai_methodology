@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/2405171d25994b5c9697c9d9cfaaeb1e/artifacts
+end_time: 1681652131413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2405171d25994b5c9697c9d9cfaaeb1e
+run_name: blushing-moth-235
+run_uuid: 2405171d25994b5c9697c9d9cfaaeb1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681651227285
+status: 3
+tags: []
+user_id: JCama

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/224469c8bd57452db0aafcd549987875/artifacts
+end_time: 1681647127041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 224469c8bd57452db0aafcd549987875
+run_name: funny-owl-8
+run_uuid: 224469c8bd57452db0aafcd549987875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647126953
+status: 3
+tags: []
+user_id: JCama

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/117dcc0d986846b890d912e4f14c37ae/artifacts
+end_time: 1681655064927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 117dcc0d986846b890d912e4f14c37ae
+run_name: crawling-donkey-635
+run_uuid: 117dcc0d986846b890d912e4f14c37ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681655064874
+status: 3
+tags: []
+user_id: JCama

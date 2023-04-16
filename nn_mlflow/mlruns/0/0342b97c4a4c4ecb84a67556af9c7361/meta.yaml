@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/0342b97c4a4c4ecb84a67556af9c7361/artifacts
+end_time: 1681647604546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0342b97c4a4c4ecb84a67556af9c7361
+run_name: sassy-deer-509
+run_uuid: 0342b97c4a4c4ecb84a67556af9c7361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647604480
+status: 3
+tags: []
+user_id: JCama

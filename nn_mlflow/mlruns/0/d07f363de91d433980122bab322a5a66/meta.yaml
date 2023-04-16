@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/d07f363de91d433980122bab322a5a66/artifacts
+end_time: 1681647224187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d07f363de91d433980122bab322a5a66
+run_name: receptive-bird-273
+run_uuid: d07f363de91d433980122bab322a5a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647224140
+status: 3
+tags: []
+user_id: JCama

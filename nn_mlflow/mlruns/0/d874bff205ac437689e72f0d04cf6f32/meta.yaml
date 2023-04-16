@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/d874bff205ac437689e72f0d04cf6f32/artifacts
+end_time: 1681660878498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d874bff205ac437689e72f0d04cf6f32
+run_name: judicious-skunk-829
+run_uuid: d874bff205ac437689e72f0d04cf6f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681660878440
+status: 3
+tags: []
+user_id: JCama

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/f5f36f1ed8b94b18883e864ea2490ba9/artifacts
+end_time: 1681647597656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5f36f1ed8b94b18883e864ea2490ba9
+run_name: nervous-sow-513
+run_uuid: f5f36f1ed8b94b18883e864ea2490ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681647597586
+status: 3
+tags: []
+user_id: JCama

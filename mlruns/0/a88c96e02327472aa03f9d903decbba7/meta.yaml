@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/mlruns/0/a88c96e02327472aa03f9d903decbba7/artifacts
+end_time: 1681668405971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a88c96e02327472aa03f9d903decbba7
+run_name: clean-pig-157
+run_uuid: a88c96e02327472aa03f9d903decbba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681668405925
+status: 3
+tags: []
+user_id: JCama

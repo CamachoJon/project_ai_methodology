@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/99c6e2c88e154815a7883453ed546b94/artifacts
+end_time: 1681652311422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99c6e2c88e154815a7883453ed546b94
+run_name: gentle-flea-901
+run_uuid: 99c6e2c88e154815a7883453ed546b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681652311368
+status: 3
+tags: []
+user_id: JCama

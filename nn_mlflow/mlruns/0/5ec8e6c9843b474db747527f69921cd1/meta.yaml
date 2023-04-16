@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/5ec8e6c9843b474db747527f69921cd1/artifacts
+end_time: 1681660878554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ec8e6c9843b474db747527f69921cd1
+run_name: rambunctious-yak-666
+run_uuid: 5ec8e6c9843b474db747527f69921cd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681660878510
+status: 3
+tags: []
+user_id: JCama

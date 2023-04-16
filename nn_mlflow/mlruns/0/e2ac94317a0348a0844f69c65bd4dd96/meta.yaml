@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/e2ac94317a0348a0844f69c65bd4dd96/artifacts
+end_time: 1681660882229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2ac94317a0348a0844f69c65bd4dd96
+run_name: adventurous-doe-455
+run_uuid: e2ac94317a0348a0844f69c65bd4dd96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681660882173
+status: 3
+tags: []
+user_id: JCama

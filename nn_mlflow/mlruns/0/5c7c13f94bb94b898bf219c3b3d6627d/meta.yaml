@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EPITA/Semester%202/AI%20Project%20Methodology/repos/project_ai_methodology/nn_mlflow/mlruns/0/5c7c13f94bb94b898bf219c3b3d6627d/artifacts
+end_time: 1681655929345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c7c13f94bb94b898bf219c3b3d6627d
+run_name: overjoyed-stoat-113
+run_uuid: 5c7c13f94bb94b898bf219c3b3d6627d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681655073119
+status: 3
+tags: []
+user_id: JCama

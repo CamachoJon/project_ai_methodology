@@ -144,4 +144,4 @@ with mlflow.start_run():
                                 X_test_hour_launched_encoded
                                 ), axis=1)
       
-      return X_train, X_val, X_test
+      return X_train, X_val, X_test, y_test
